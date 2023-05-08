@@ -9,3 +9,6 @@ app.get('/', (req, res) => {
 app.listen(port, () => {
   console.log(`Node-API app is running on port ${port}!`);
 });
+
+// TODO: Video: https://www.youtube.com/watch?v=9OfL9H6AmhQ
+// TODO: Time: 11:29
