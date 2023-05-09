@@ -92,6 +92,3 @@ mongoose
   .catch((error) => {
     console.log(`Failed to connect to MongoDB: ${error}`);
   });
-
-// TODO: Video: https://www.youtube.com/watch?v=9OfL9H6AmhQ
-// TODO: Time: 11:29
